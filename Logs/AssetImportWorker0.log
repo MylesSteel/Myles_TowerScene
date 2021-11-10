@@ -868,3 +868,4 @@ Received Import Request.
 Start importing Assets/Prefab/landing.fbx using Guid(d93432df8556f03498bc27eb060e1888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f3cc34bc2350e34f3c6a06970ff19a6') in 0.012457 seconds
   Import took 0.016416 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
