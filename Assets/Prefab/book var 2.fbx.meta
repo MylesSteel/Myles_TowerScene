@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bc9719d783020d74baa78ca82e3d7015
+guid: 557eaa43481494b4686bd90742ebfd3b
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Checker 1024
-    second: {fileID: 2100000, guid: 30d3d329ed35fc0438fab6fed2004dec, type: 2}
+    second: {fileID: 2100000, guid: 3c75301744d5d7246be14db7ab8337f3, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
